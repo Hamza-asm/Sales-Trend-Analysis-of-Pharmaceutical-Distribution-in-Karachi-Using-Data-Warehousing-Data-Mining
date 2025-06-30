@@ -4,7 +4,7 @@
 
 ## 📊 Project Overview  
 This project analyzes pharmaceutical sales data from a distributor in Karachi using data warehousing and mining techniques. A star-schema data warehouse was designed, and Power BI was used for ETL, transformation, and visualization. The goal was to uncover trends, pricing patterns, and regional sales performance.
----
+
 ## 🛠 Tools & Technologies  
 - Power BI (ETL, data modeling, visualization)  
 - Star-schema data warehouse design  
